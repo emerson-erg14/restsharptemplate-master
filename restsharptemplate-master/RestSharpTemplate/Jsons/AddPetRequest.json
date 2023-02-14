@@ -1,0 +1,24 @@
+﻿{
+  "id": 0,
+  "category": {
+    "id": 50000,
+    "name": "Biduzin"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "http://orkut.com"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "cachorro"
+    },
+    {
+      "id": 1,
+      "name": "lindao"
+    }
+  ],
+  "status": "available"
+}
+
+
